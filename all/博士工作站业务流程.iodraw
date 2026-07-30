@@ -119,7 +119,7 @@
         <mxCell id="eid3rvfrqFlP9d8Vcgmx-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eid3rvfrqFlP9d8Vcgmx-33" target="eid3rvfrqFlP9d8Vcgmx-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eid3rvfrqFlP9d8Vcgmx-33" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;计划部使用&lt;/span&gt;&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;自动排版工具（&lt;font color=&quot;#009900&quot;&gt;蔡佳良、肖运高&lt;/font&gt;）得到&lt;b&gt;&lt;font color=&quot;#0000ff&quot;&gt;拼版prt&lt;/font&gt;&lt;/b&gt;&lt;br&gt;每个体上有一码通属性&lt;br&gt;未来版本：部件上有拼版ID&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eid3rvfrqFlP9d8Vcgmx-33" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;计划部使用&lt;/span&gt;&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;自动排版工具（&lt;font color=&quot;#009900&quot;&gt;蔡佳良、肖运高&lt;/font&gt;）得到&lt;b&gt;&lt;font color=&quot;#0000ff&quot;&gt;拼版prt，&lt;br&gt;&lt;/font&gt;&lt;/b&gt;放到Z盘&lt;br&gt;每个体上有一码通属性&lt;br&gt;未来版本：部件上有拼版ID&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="600" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="eid3rvfrqFlP9d8Vcgmx-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="eid3rvfrqFlP9d8Vcgmx-36" target="eid3rvfrqFlP9d8Vcgmx-19">
