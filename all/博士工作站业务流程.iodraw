@@ -48,7 +48,7 @@
           <mxGeometry x="800" y="400" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="eid3rvfrqFlP9d8Vcgmx-10" value="&lt;span style=&quot;font-family: 默认字体;&quot;&gt;分发给自动编程图纸，并通过侨安打印机扫描得到含有信息的电子版PDF&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="670" y="400" width="110" height="55" as="geometry" />
+          <mxGeometry x="660" y="400" width="110" height="55" as="geometry" />
         </mxCell>
         <mxCell id="eid3rvfrqFlP9d8Vcgmx-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eid3rvfrqFlP9d8Vcgmx-11" target="eid3rvfrqFlP9d8Vcgmx-13">
           <mxGeometry relative="1" as="geometry" />
