@@ -267,11 +267,6 @@
         <mxCell id="XGMDAC_3czDQmLbfTKJu-18" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;fontSize=14;" vertex="1" parent="XGMDAC_3czDQmLbfTKJu-22">
           <mxGeometry x="130" y="40" width="97.5" height="172.5" as="geometry" />
         </mxCell>
-        <mxCell id="XGMDAC_3czDQmLbfTKJu-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XGMDAC_3czDQmLbfTKJu-35" source="XGMDAC_3czDQmLbfTKJu-39">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="430" y="260" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="XGMDAC_3czDQmLbfTKJu-39" value="是否成功" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;align=center;strokeWidth=2;pointerEvents=1;" vertex="1" parent="XGMDAC_3czDQmLbfTKJu-35">
           <mxGeometry x="104.38" y="210" width="148.75" height="100" as="geometry" />
         </mxCell>
@@ -308,8 +303,13 @@
         <mxCell id="XGMDAC_3czDQmLbfTKJu-49" value="&lt;font face=&quot;默认字体&quot;&gt;跑图人员确认进入自动编程&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="340" y="1920" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XGMDAC_3czDQmLbfTKJu-50" value="进入上面的流程" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="790" y="1690" width="160" height="80" as="geometry" />
+        <mxCell id="XGMDAC_3czDQmLbfTKJu-50" value="进入上面旧的流程" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="670" y="1690" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XGMDAC_3czDQmLbfTKJu-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XGMDAC_3czDQmLbfTKJu-39" target="XGMDAC_3czDQmLbfTKJu-50">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="1730" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
