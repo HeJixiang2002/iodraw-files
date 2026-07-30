@@ -48,8 +48,11 @@
         <mxCell id="eid3rvfrqFlP9d8Vcgmx-13" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;依据一码通从ERP系统上拉取dxf/stp/pdf/cf.pdf文件到CNC/0000JM/fgexcel路径下(艾湘磊)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="1360" y="400" width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="eid3rvfrqFlP9d8Vcgmx-18" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;依据一码通从ERP系统上拉取dxf/stp/pdf/cf.pdf文件到CNC/0000JM/fgexcel路径下(艾湘磊)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="eid3rvfrqFlP9d8Vcgmx-18" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;跑图人员通过扫码枪手动扫描二维码、手动找到dxf/stp/pdf/cf.pdf（拆分工具）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="1640" y="400" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="eid3rvfrqFlP9d8Vcgmx-19" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;跑图人员通过扫码枪手动扫描二维码、手动找到dxf/stp/pdf/cf.pdf（拆分工具）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1650" y="410" width="200" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
