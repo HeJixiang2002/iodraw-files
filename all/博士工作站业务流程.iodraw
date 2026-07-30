@@ -15,6 +15,9 @@
         <mxCell id="eid3rvfrqFlP9d8Vcgmx-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eid3rvfrqFlP9d8Vcgmx-4" target="eid3rvfrqFlP9d8Vcgmx-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="eid3rvfrqFlP9d8Vcgmx-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eid3rvfrqFlP9d8Vcgmx-4" target="eid3rvfrqFlP9d8Vcgmx-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="eid3rvfrqFlP9d8Vcgmx-4" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;计划部&lt;/span&gt;&lt;br style=&quot;margin: 0px; padding: 0px; font-family: 默认字体; font-size: 14px;&quot;&gt;&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;给纸质版PDF盖章、写工期等信息&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="400" width="200" height="120" as="geometry" />
         </mxCell>
