@@ -267,9 +267,6 @@
         <mxCell id="XGMDAC_3czDQmLbfTKJu-18" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;fontSize=14;" vertex="1" parent="XGMDAC_3czDQmLbfTKJu-22">
           <mxGeometry x="130" y="40" width="97.5" height="172.5" as="geometry" />
         </mxCell>
-        <mxCell id="XGMDAC_3czDQmLbfTKJu-33" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;待自动编程&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="XGMDAC_3czDQmLbfTKJu-35">
-          <mxGeometry x="100" y="175" width="160" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="XGMDAC_3czDQmLbfTKJu-37" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;默认字体&quot;&gt;计划工作台&lt;/font&gt;将装夹方式、材料等信息存入系统&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="450" y="1200" width="150" height="60" as="geometry" />
         </mxCell>
