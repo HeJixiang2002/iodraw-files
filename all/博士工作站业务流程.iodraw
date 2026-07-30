@@ -285,7 +285,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XGMDAC_3czDQmLbfTKJu-38" value="待自动编程状态" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="368.76" y="1820" width="160" height="80" as="geometry" />
+          <mxGeometry x="368.76" y="1830" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XGMDAC_3czDQmLbfTKJu-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XGMDAC_3czDQmLbfTKJu-39" target="XGMDAC_3czDQmLbfTKJu-38">
           <mxGeometry relative="1" as="geometry" />
@@ -298,6 +298,9 @@
         </mxCell>
         <mxCell id="XGMDAC_3czDQmLbfTKJu-46" value="&lt;font face=&quot;默认字体&quot;&gt;上色&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="480" y="1400" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XGMDAC_3czDQmLbfTKJu-47" value="&lt;font face=&quot;默认字体&quot;&gt;上色&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1780" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
