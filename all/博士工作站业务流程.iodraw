@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="w-4m2Xh9SdSg9Hvn5Zut">
-    <mxGraphModel dx="1509" dy="888" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1062" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -54,7 +54,7 @@
         <mxCell id="eid3rvfrqFlP9d8Vcgmx-13" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;依据一码通从ERP系统上拉取dxf/stp/pdf/cf.pdf文件到CNC/0000JM/fgexcel路径下(&lt;font color=&quot;#009900&quot;&gt;艾湘磊&lt;/font&gt;)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="1360" y="400" width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="eid3rvfrqFlP9d8Vcgmx-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eid3rvfrqFlP9d8Vcgmx-18" target="eid3rvfrqFlP9d8Vcgmx-19">
+        <mxCell id="eid3rvfrqFlP9d8Vcgmx-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eid3rvfrqFlP9d8Vcgmx-18" target="eid3rvfrqFlP9d8Vcgmx-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eid3rvfrqFlP9d8Vcgmx-18" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;跑图人员通过扫码枪手动扫描二维码、得到一码通，找到dxf/stp/pdf/cf.pdf（&lt;font color=&quot;#009900&quot;&gt;拆分工具&lt;/font&gt;）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
@@ -64,7 +64,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eid3rvfrqFlP9d8Vcgmx-19" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;跑图人员本地自动上色&lt;br&gt;&lt;font color=&quot;#ff0008&quot;&gt;如果是多拼，需要周工审查，有时可能要手动上色&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="2170" y="400" width="200" height="120" as="geometry" />
+          <mxGeometry x="2200" y="400" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="eid3rvfrqFlP9d8Vcgmx-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eid3rvfrqFlP9d8Vcgmx-20" target="eid3rvfrqFlP9d8Vcgmx-21">
           <mxGeometry relative="1" as="geometry" />
@@ -110,7 +110,7 @@
           <mxGeometry x="800" y="600" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="eid3rvfrqFlP9d8Vcgmx-39" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;跑图人员本地自动上色&lt;br&gt;&lt;font color=&quot;#ff0008&quot;&gt;如果是多拼，需要周工审查，有时可能要手动上色&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1890" y="180" width="200" height="120" as="geometry" />
+          <mxGeometry x="1920" y="400" width="200" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
