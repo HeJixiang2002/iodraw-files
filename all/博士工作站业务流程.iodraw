@@ -258,8 +258,8 @@
         <mxCell id="XGMDAC_3czDQmLbfTKJu-16" value="&lt;font face=&quot;默认字体&quot;&gt;多余的零件&lt;br&gt;（比如5个零件，3个一组，多出2个，则将多出的2个返回）&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-140" y="1390" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XGMDAC_3czDQmLbfTKJu-18" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="175" y="1590" width="50" height="100" as="geometry" />
+        <mxCell id="XGMDAC_3czDQmLbfTKJu-18" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="175" y="1560" width="50" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
