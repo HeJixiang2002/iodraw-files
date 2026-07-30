@@ -264,6 +264,9 @@
         <mxCell id="XGMDAC_3czDQmLbfTKJu-18" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;" vertex="1" parent="XGMDAC_3czDQmLbfTKJu-22">
           <mxGeometry x="130" y="40" width="97.5" height="172.5" as="geometry" />
         </mxCell>
+        <mxCell id="XGMDAC_3czDQmLbfTKJu-23" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="2510" y="960" width="50" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
