@@ -253,7 +253,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XGMDAC_3czDQmLbfTKJu-35" value="" style="group;fontSize=14;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="270" y="1470" width="340" height="290" as="geometry" />
+          <mxGeometry x="270" y="1470" width="340" height="310" as="geometry" />
         </mxCell>
         <mxCell id="XGMDAC_3czDQmLbfTKJu-22" value="" style="group;fontSize=14;" vertex="1" connectable="0" parent="XGMDAC_3czDQmLbfTKJu-35">
           <mxGeometry width="340" height="175" as="geometry" />
@@ -267,8 +267,8 @@
         <mxCell id="XGMDAC_3czDQmLbfTKJu-18" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;fontSize=14;" vertex="1" parent="XGMDAC_3czDQmLbfTKJu-22">
           <mxGeometry x="130" y="40" width="97.5" height="172.5" as="geometry" />
         </mxCell>
-        <mxCell id="XGMDAC_3czDQmLbfTKJu-39" value="" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;align=left;strokeWidth=2;pointerEvents=1;" vertex="1" parent="XGMDAC_3czDQmLbfTKJu-35">
-          <mxGeometry x="138.75" y="210" width="80" height="80" as="geometry" />
+        <mxCell id="XGMDAC_3czDQmLbfTKJu-39" value="是否成功" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;align=center;strokeWidth=2;pointerEvents=1;" vertex="1" parent="XGMDAC_3czDQmLbfTKJu-35">
+          <mxGeometry x="104.38" y="210" width="148.75" height="100" as="geometry" />
         </mxCell>
         <mxCell id="XGMDAC_3czDQmLbfTKJu-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XGMDAC_3czDQmLbfTKJu-35" source="XGMDAC_3czDQmLbfTKJu-18" target="XGMDAC_3czDQmLbfTKJu-39">
           <mxGeometry relative="1" as="geometry" />
