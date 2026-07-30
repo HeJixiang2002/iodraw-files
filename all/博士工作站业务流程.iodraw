@@ -88,13 +88,15 @@
         <mxCell id="eid3rvfrqFlP9d8Vcgmx-20" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;跑图人员本地自动编程&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="2890" y="400" width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="eid3rvfrqFlP9d8Vcgmx-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="eid3rvfrqFlP9d8Vcgmx-21">
+        <mxCell id="eid3rvfrqFlP9d8Vcgmx-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="450" y="990" as="targetPoint" />
+            <mxPoint x="400" y="930" as="targetPoint" />
+            <mxPoint x="3210" y="510" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="3260" y="810" />
-              <mxPoint x="200" y="810" />
-              <mxPoint x="200" y="990" />
+              <mxPoint x="3210" y="800" />
+              <mxPoint x="150" y="800" />
+              <mxPoint x="150" y="980" />
+              <mxPoint x="410" y="980" />
             </Array>
           </mxGeometry>
         </mxCell>
