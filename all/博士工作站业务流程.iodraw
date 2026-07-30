@@ -8,7 +8,7 @@
           <mxGeometry x="140" y="400" width="150" height="110" as="geometry" />
         </mxCell>
         <mxCell id="eid3rvfrqFlP9d8Vcgmx-2" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;单个零件的&lt;/span&gt;&lt;br style=&quot;margin: 0px; padding: 0px; font-family: 默认字体; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;font-family: 默认字体; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;stp、dxf、pdf(带有一码通）&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
-          <mxGeometry x="150" y="210" width="140" height="110" as="geometry" />
+          <mxGeometry x="160" y="230" width="140" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
