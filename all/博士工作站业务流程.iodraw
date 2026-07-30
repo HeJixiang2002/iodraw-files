@@ -123,6 +123,14 @@
         <mxCell id="eid3rvfrqFlP9d8Vcgmx-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eid3rvfrqFlP9d8Vcgmx-39" target="eid3rvfrqFlP9d8Vcgmx-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="eid3rvfrqFlP9d8Vcgmx-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="eid3rvfrqFlP9d8Vcgmx-39" target="eid3rvfrqFlP9d8Vcgmx-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2240" y="610" />
+              <mxPoint x="1665" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="eid3rvfrqFlP9d8Vcgmx-39" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;跑图人员打印&lt;/span&gt;&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;cf.pdf得到纸质版pdf，之后&lt;/span&gt;&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;通过扫码枪手动扫描纸质pdf上的二维码、得到一码通，找到dxf/stp/pdf/cf.pdf并输出到本地（&lt;/span&gt;&lt;font style=&quot;font-family: 默认字体; font-size: 14px;&quot; color=&quot;#009900&quot;&gt;拆分工具&lt;/font&gt;&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;）&lt;/span&gt;&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="2190" y="400" width="200" height="120" as="geometry" />
         </mxCell>
