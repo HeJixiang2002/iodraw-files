@@ -123,7 +123,7 @@
         <mxCell id="eid3rvfrqFlP9d8Vcgmx-39" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;跑图人员通过扫码枪手动扫描二维码、得到一码通，找到dxf/stp/pdf/cf.pdf（&lt;/span&gt;&lt;font style=&quot;font-family: 默认字体; font-size: 14px;&quot; color=&quot;#009900&quot;&gt;拆分工具&lt;/font&gt;&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;）&lt;/span&gt;&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="2360" y="400" width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="eid3rvfrqFlP9d8Vcgmx-45" value="&lt;font face=&quot;默认字体&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;监控&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;ymt-watch-output文件夹，将pdf的路径写到pdf里面&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="eid3rvfrqFlP9d8Vcgmx-45" value="&lt;font face=&quot;默认字体&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;监控&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;ymt-watch-output文件夹，将pdf的路径写到pdf里面（自动上色会用到）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="1640" y="400" width="200" height="120" as="geometry" />
         </mxCell>
       </root>
