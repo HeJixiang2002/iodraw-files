@@ -154,8 +154,8 @@
         <mxCell id="eid3rvfrqFlP9d8Vcgmx-45" value="&lt;font face=&quot;默认字体&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;监控&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;ymt-watch-output文件夹，将pdf的路径写到pdf里面（自动上色会用到&lt;/span&gt;&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;dxf/stp/pdf/cf.pdf文件&lt;/span&gt;&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="1640" y="400" width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="eid3rvfrqFlP9d8Vcgmx-52" value="&lt;font face=&quot;默认字体&quot;&gt;输出&lt;/font&gt;&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;cf.pdf到&lt;/span&gt;&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;ymt-watch-output文件夹&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1820" y="545" width="110" height="55" as="geometry" />
+        <mxCell id="eid3rvfrqFlP9d8Vcgmx-52" value="&lt;span style=&quot;color: rgb(0, 153, 0); font-family: 默认字体; font-size: 14px;&quot;&gt;拆分工具&lt;/span&gt;&lt;font face=&quot;默认字体&quot;&gt;输出&lt;/font&gt;&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;cf.pdf到&lt;/span&gt;&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;ymt-watch-output文件夹&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="545" width="140" height="55" as="geometry" />
         </mxCell>
         <mxCell id="eid3rvfrqFlP9d8Vcgmx-54" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;CNC图纸放到0002&lt;/span&gt;&lt;div&gt;&lt;font face=&quot;默认字体&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;上下料图纸放到0003&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="3240" y="400" width="200" height="120" as="geometry" />
