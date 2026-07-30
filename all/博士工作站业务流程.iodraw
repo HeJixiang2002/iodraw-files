@@ -255,8 +255,8 @@
         <mxCell id="XGMDAC_3czDQmLbfTKJu-13" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;单个&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="1470" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="XGMDAC_3czDQmLbfTKJu-16" value="&lt;span style=&quot;font-family: 默认字体;&quot;&gt;分发给自动编程图纸，并通过侨安打印机&lt;font color=&quot;#ff33ff&quot;&gt;扫描&lt;/font&gt;得到含有信息的电子版PDF&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="1390" width="110" height="55" as="geometry" />
+        <mxCell id="XGMDAC_3czDQmLbfTKJu-16" value="&lt;font face=&quot;默认字体&quot;&gt;多余的零件&lt;br&gt;（比如5个零件，3个一组，多出2个，则将多出的2个返回）&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="1390" width="130" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
