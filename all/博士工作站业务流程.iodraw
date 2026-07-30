@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="w-4m2Xh9SdSg9Hvn5Zut">
-    <mxGraphModel dx="5736" dy="3376" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1593" dy="938" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,7 +40,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="900" y="310" />
-              <mxPoint x="2080" y="310" />
+              <mxPoint x="2010" y="310" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -64,17 +64,6 @@
         </mxCell>
         <mxCell id="eid3rvfrqFlP9d8Vcgmx-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="eid3rvfrqFlP9d8Vcgmx-39" target="eid3rvfrqFlP9d8Vcgmx-36">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eid3rvfrqFlP9d8Vcgmx-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2145" y="520" as="sourcePoint" />
-            <mxPoint x="1660" y="520" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="2210" y="520" />
-              <mxPoint x="2210" y="660" />
-              <mxPoint x="1660" y="660" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="eid3rvfrqFlP9d8Vcgmx-18" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;跑图人员使用&lt;font color=&quot;#009900&quot;&gt;拆分工具&lt;/font&gt;将pdf拆分，并且输出到&lt;br&gt;&lt;/span&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;默认字体&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;\\192.168.5.9\cnc\扫描pdf拆分结果&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="1910" y="400" width="200" height="120" as="geometry" />
