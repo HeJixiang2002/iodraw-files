@@ -300,7 +300,10 @@
           <mxGeometry x="480" y="1400" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XGMDAC_3czDQmLbfTKJu-47" value="&lt;font face=&quot;默认字体&quot;&gt;是&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="360" y="1780" width="40" height="30" as="geometry" />
+          <mxGeometry x="400" y="1790" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XGMDAC_3czDQmLbfTKJu-48" value="&lt;font face=&quot;默认字体&quot;&gt;是&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1700" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
