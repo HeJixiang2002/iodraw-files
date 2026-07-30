@@ -1,176 +1,179 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="w-4m2Xh9SdSg9Hvn5Zut">
-    <mxGraphModel dx="9560" dy="5627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5736" dy="3376" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="eid3rvfrqFlP9d8Vcgmx-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eid3rvfrqFlP9d8Vcgmx-1" target="eid3rvfrqFlP9d8Vcgmx-4">
+        <mxCell id="eid3rvfrqFlP9d8Vcgmx-73" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="100" y="310" width="3400" height="790" as="geometry" />
+        </mxCell>
+        <mxCell id="eid3rvfrqFlP9d8Vcgmx-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="eid3rvfrqFlP9d8Vcgmx-73" source="eid3rvfrqFlP9d8Vcgmx-1" target="eid3rvfrqFlP9d8Vcgmx-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="360" y="460" />
-              <mxPoint x="360" y="460" />
+              <mxPoint x="260" y="241.83673469387756" />
+              <mxPoint x="260" y="241.83673469387756" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="eid3rvfrqFlP9d8Vcgmx-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eid3rvfrqFlP9d8Vcgmx-4" target="eid3rvfrqFlP9d8Vcgmx-8">
+        <mxCell id="eid3rvfrqFlP9d8Vcgmx-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="eid3rvfrqFlP9d8Vcgmx-73" source="eid3rvfrqFlP9d8Vcgmx-4" target="eid3rvfrqFlP9d8Vcgmx-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eid3rvfrqFlP9d8Vcgmx-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eid3rvfrqFlP9d8Vcgmx-4" target="eid3rvfrqFlP9d8Vcgmx-33">
+        <mxCell id="eid3rvfrqFlP9d8Vcgmx-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="eid3rvfrqFlP9d8Vcgmx-73" source="eid3rvfrqFlP9d8Vcgmx-4" target="eid3rvfrqFlP9d8Vcgmx-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eid3rvfrqFlP9d8Vcgmx-4" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;计划部&lt;/span&gt;&lt;br style=&quot;margin: 0px; padding: 0px; font-family: 默认字体; font-size: 14px;&quot;&gt;&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;给纸质版PDF盖章、写工期等信息&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="400" width="200" height="120" as="geometry" />
+        <mxCell id="eid3rvfrqFlP9d8Vcgmx-4" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;计划部&lt;/span&gt;&lt;br style=&quot;margin: 0px; padding: 0px; font-family: 默认字体; font-size: 14px;&quot;&gt;&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;给纸质版PDF盖章、写工期等信息&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="eid3rvfrqFlP9d8Vcgmx-73">
+          <mxGeometry x="340" y="145.10204081632654" width="200" height="193.46938775510205" as="geometry" />
         </mxCell>
-        <mxCell id="eid3rvfrqFlP9d8Vcgmx-6" value="打印纸质版PDF" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="330" y="430" width="90" height="30" as="geometry" />
+        <mxCell id="eid3rvfrqFlP9d8Vcgmx-6" value="打印纸质版PDF" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="eid3rvfrqFlP9d8Vcgmx-73">
+          <mxGeometry x="230" y="193.46938775510205" width="90" height="48.36734693877551" as="geometry" />
         </mxCell>
-        <mxCell id="eid3rvfrqFlP9d8Vcgmx-7" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="125" y="350" width="190" height="180" as="geometry" />
+        <mxCell id="eid3rvfrqFlP9d8Vcgmx-7" value="" style="group" vertex="1" connectable="0" parent="eid3rvfrqFlP9d8Vcgmx-73">
+          <mxGeometry x="25" y="64.48979591836735" width="190" height="290.2040816326531" as="geometry" />
         </mxCell>
         <mxCell id="eid3rvfrqFlP9d8Vcgmx-1" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;PLM系统&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="eid3rvfrqFlP9d8Vcgmx-7">
-          <mxGeometry y="50" width="190" height="130" as="geometry" />
+          <mxGeometry y="80.61224489795919" width="190" height="209.59183673469389" as="geometry" />
         </mxCell>
         <mxCell id="eid3rvfrqFlP9d8Vcgmx-2" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;单个零件的&lt;/span&gt;&lt;br style=&quot;margin: 0px; padding: 0px; font-family: 默认字体; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;font-family: 默认字体; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;stp、dxf、pdf(带有一码通）&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="eid3rvfrqFlP9d8Vcgmx-7">
-          <mxGeometry x="15" width="160" height="90" as="geometry" />
+          <mxGeometry x="15" width="160" height="145.10204081632654" as="geometry" />
         </mxCell>
-        <mxCell id="eid3rvfrqFlP9d8Vcgmx-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eid3rvfrqFlP9d8Vcgmx-8" target="eid3rvfrqFlP9d8Vcgmx-11">
+        <mxCell id="eid3rvfrqFlP9d8Vcgmx-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="eid3rvfrqFlP9d8Vcgmx-73" source="eid3rvfrqFlP9d8Vcgmx-8" target="eid3rvfrqFlP9d8Vcgmx-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eid3rvfrqFlP9d8Vcgmx-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eid3rvfrqFlP9d8Vcgmx-8" target="eid3rvfrqFlP9d8Vcgmx-18">
+        <mxCell id="eid3rvfrqFlP9d8Vcgmx-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="eid3rvfrqFlP9d8Vcgmx-73" source="eid3rvfrqFlP9d8Vcgmx-8" target="eid3rvfrqFlP9d8Vcgmx-18">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="900" y="310" />
-              <mxPoint x="2080" y="310" />
+              <mxPoint x="800" />
+              <mxPoint x="1980" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="eid3rvfrqFlP9d8Vcgmx-8" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;同步PDF到跑图人员电脑本地&lt;br&gt;（&lt;font color=&quot;#009900&quot;&gt;打印机自带的功能&lt;/font&gt;）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="400" width="200" height="120" as="geometry" />
+        <mxCell id="eid3rvfrqFlP9d8Vcgmx-8" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;同步PDF到跑图人员电脑本地&lt;br&gt;（&lt;font color=&quot;#009900&quot;&gt;打印机自带的功能&lt;/font&gt;）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="eid3rvfrqFlP9d8Vcgmx-73">
+          <mxGeometry x="700" y="145.10204081632654" width="200" height="193.46938775510205" as="geometry" />
         </mxCell>
-        <mxCell id="eid3rvfrqFlP9d8Vcgmx-10" value="&lt;span style=&quot;font-family: 默认字体;&quot;&gt;分发给自动编程图纸，并通过侨安打印机&lt;font color=&quot;#ff33ff&quot;&gt;扫描&lt;/font&gt;得到含有信息的电子版PDF&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="660" y="400" width="110" height="55" as="geometry" />
+        <mxCell id="eid3rvfrqFlP9d8Vcgmx-10" value="&lt;span style=&quot;font-family: 默认字体;&quot;&gt;分发给自动编程图纸，并通过侨安打印机&lt;font color=&quot;#ff33ff&quot;&gt;扫描&lt;/font&gt;得到含有信息的电子版PDF&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="eid3rvfrqFlP9d8Vcgmx-73">
+          <mxGeometry x="560" y="145.10204081632654" width="110" height="88.6734693877551" as="geometry" />
         </mxCell>
-        <mxCell id="eid3rvfrqFlP9d8Vcgmx-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eid3rvfrqFlP9d8Vcgmx-11" target="eid3rvfrqFlP9d8Vcgmx-13">
+        <mxCell id="eid3rvfrqFlP9d8Vcgmx-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="eid3rvfrqFlP9d8Vcgmx-73" source="eid3rvfrqFlP9d8Vcgmx-11" target="eid3rvfrqFlP9d8Vcgmx-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eid3rvfrqFlP9d8Vcgmx-11" value="&lt;span style=&quot;font-family: 默认字体;&quot;&gt;生成含有一码通的excel到\\192.168.5.9\cnc\0000JM\&lt;br&gt;fgexcel\ymt-watch-input&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="400" width="200" height="120" as="geometry" />
+        <mxCell id="eid3rvfrqFlP9d8Vcgmx-11" value="&lt;span style=&quot;font-family: 默认字体;&quot;&gt;生成含有一码通的excel到\\192.168.5.9\cnc\0000JM\&lt;br&gt;fgexcel\ymt-watch-input&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="eid3rvfrqFlP9d8Vcgmx-73">
+          <mxGeometry x="980" y="145.10204081632654" width="200" height="193.46938775510205" as="geometry" />
         </mxCell>
-        <mxCell id="eid3rvfrqFlP9d8Vcgmx-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eid3rvfrqFlP9d8Vcgmx-13" target="eid3rvfrqFlP9d8Vcgmx-45">
+        <mxCell id="eid3rvfrqFlP9d8Vcgmx-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="eid3rvfrqFlP9d8Vcgmx-73" source="eid3rvfrqFlP9d8Vcgmx-13" target="eid3rvfrqFlP9d8Vcgmx-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eid3rvfrqFlP9d8Vcgmx-13" value="&lt;font face=&quot;默认字体&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;\\192.168.5.9\cnc\0000JM\&lt;br&gt;fgexcel\ymt-watch-output路径下有&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;dxf/stp/pdf(带路径)/&lt;/span&gt;&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;cf.pdf&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1430" y="400" width="210" height="120" as="geometry" />
+        <mxCell id="eid3rvfrqFlP9d8Vcgmx-13" value="&lt;font face=&quot;默认字体&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;\\192.168.5.9\cnc\0000JM\&lt;br&gt;fgexcel\ymt-watch-output路径下有&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;dxf/stp/pdf(带路径)/&lt;/span&gt;&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;cf.pdf&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="eid3rvfrqFlP9d8Vcgmx-73">
+          <mxGeometry x="1330" y="145.10204081632654" width="210" height="193.46938775510205" as="geometry" />
         </mxCell>
-        <mxCell id="eid3rvfrqFlP9d8Vcgmx-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eid3rvfrqFlP9d8Vcgmx-18" target="eid3rvfrqFlP9d8Vcgmx-39">
+        <mxCell id="eid3rvfrqFlP9d8Vcgmx-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="eid3rvfrqFlP9d8Vcgmx-73" source="eid3rvfrqFlP9d8Vcgmx-18" target="eid3rvfrqFlP9d8Vcgmx-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eid3rvfrqFlP9d8Vcgmx-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="eid3rvfrqFlP9d8Vcgmx-39" target="eid3rvfrqFlP9d8Vcgmx-36">
+        <mxCell id="eid3rvfrqFlP9d8Vcgmx-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="eid3rvfrqFlP9d8Vcgmx-73" source="eid3rvfrqFlP9d8Vcgmx-39" target="eid3rvfrqFlP9d8Vcgmx-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eid3rvfrqFlP9d8Vcgmx-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="eid3rvfrqFlP9d8Vcgmx-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="eid3rvfrqFlP9d8Vcgmx-73">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2015" y="520" as="sourcePoint" />
-            <mxPoint x="1530" y="520" as="targetPoint" />
+            <mxPoint x="1915" y="338.57142857142856" as="sourcePoint" />
+            <mxPoint x="1430" y="338.57142857142856" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="2080" y="520" />
-              <mxPoint x="2080" y="660" />
-              <mxPoint x="1530" y="660" />
+              <mxPoint x="1980" y="338.57142857142856" />
+              <mxPoint x="1980" y="564.2857142857143" />
+              <mxPoint x="1430" y="564.2857142857143" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="eid3rvfrqFlP9d8Vcgmx-18" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;跑图人员使用&lt;font color=&quot;#009900&quot;&gt;拆分工具&lt;/font&gt;将pdf拆分，并且输出到&lt;br&gt;&lt;/span&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;默认字体&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;\\192.168.5.9\cnc\扫描pdf拆分结果&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1980" y="400" width="200" height="120" as="geometry" />
+        <mxCell id="eid3rvfrqFlP9d8Vcgmx-18" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;跑图人员使用&lt;font color=&quot;#009900&quot;&gt;拆分工具&lt;/font&gt;将pdf拆分，并且输出到&lt;br&gt;&lt;/span&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;默认字体&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;\\192.168.5.9\cnc\扫描pdf拆分结果&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="eid3rvfrqFlP9d8Vcgmx-73">
+          <mxGeometry x="1880" y="145.10204081632654" width="200" height="193.46938775510205" as="geometry" />
         </mxCell>
-        <mxCell id="eid3rvfrqFlP9d8Vcgmx-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eid3rvfrqFlP9d8Vcgmx-19" target="eid3rvfrqFlP9d8Vcgmx-20">
+        <mxCell id="eid3rvfrqFlP9d8Vcgmx-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="eid3rvfrqFlP9d8Vcgmx-73" source="eid3rvfrqFlP9d8Vcgmx-19" target="eid3rvfrqFlP9d8Vcgmx-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eid3rvfrqFlP9d8Vcgmx-19" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;跑图人员本地自动上色（pdf/dxf/stp/pdf路径），并且将pdf路径输出到部件属性上&lt;br&gt;&lt;font color=&quot;#ff0008&quot;&gt;如果是多拼，需要周工审查，有时可能要手动上色&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="2540" y="400" width="200" height="120" as="geometry" />
+        <mxCell id="eid3rvfrqFlP9d8Vcgmx-19" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;跑图人员本地自动上色（pdf/dxf/stp/pdf路径），并且将pdf路径输出到部件属性上&lt;br&gt;&lt;font color=&quot;#ff0008&quot;&gt;如果是多拼，需要周工审查，有时可能要手动上色&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="eid3rvfrqFlP9d8Vcgmx-73">
+          <mxGeometry x="2440" y="145.10204081632654" width="200" height="193.46938775510205" as="geometry" />
         </mxCell>
-        <mxCell id="eid3rvfrqFlP9d8Vcgmx-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eid3rvfrqFlP9d8Vcgmx-20" target="eid3rvfrqFlP9d8Vcgmx-21">
+        <mxCell id="eid3rvfrqFlP9d8Vcgmx-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="eid3rvfrqFlP9d8Vcgmx-73" source="eid3rvfrqFlP9d8Vcgmx-20" target="eid3rvfrqFlP9d8Vcgmx-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eid3rvfrqFlP9d8Vcgmx-20" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;跑图人员本地自动编程&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="2790" y="400" width="200" height="120" as="geometry" />
+        <mxCell id="eid3rvfrqFlP9d8Vcgmx-20" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;跑图人员本地自动编程&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="eid3rvfrqFlP9d8Vcgmx-73">
+          <mxGeometry x="2690" y="145.10204081632654" width="200" height="193.46938775510205" as="geometry" />
         </mxCell>
-        <mxCell id="eid3rvfrqFlP9d8Vcgmx-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eid3rvfrqFlP9d8Vcgmx-21" target="eid3rvfrqFlP9d8Vcgmx-54">
+        <mxCell id="eid3rvfrqFlP9d8Vcgmx-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="eid3rvfrqFlP9d8Vcgmx-73" source="eid3rvfrqFlP9d8Vcgmx-21" target="eid3rvfrqFlP9d8Vcgmx-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eid3rvfrqFlP9d8Vcgmx-21" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;审图人员本地审图&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="3050" y="400" width="200" height="120" as="geometry" />
+        <mxCell id="eid3rvfrqFlP9d8Vcgmx-21" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;审图人员本地审图&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="eid3rvfrqFlP9d8Vcgmx-73">
+          <mxGeometry x="2950" y="145.10204081632654" width="200" height="193.46938775510205" as="geometry" />
         </mxCell>
-        <mxCell id="eid3rvfrqFlP9d8Vcgmx-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eid3rvfrqFlP9d8Vcgmx-27" target="eid3rvfrqFlP9d8Vcgmx-1">
+        <mxCell id="eid3rvfrqFlP9d8Vcgmx-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="eid3rvfrqFlP9d8Vcgmx-73" source="eid3rvfrqFlP9d8Vcgmx-27" target="eid3rvfrqFlP9d8Vcgmx-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="240" y="550" />
-              <mxPoint x="240" y="550" />
+              <mxPoint x="140" y="386.9387755102041" />
+              <mxPoint x="140" y="386.9387755102041" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="eid3rvfrqFlP9d8Vcgmx-27" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;ERP系统&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;container=0;" vertex="1" parent="1">
-          <mxGeometry x="125" y="670" width="190" height="130" as="geometry" />
+        <mxCell id="eid3rvfrqFlP9d8Vcgmx-27" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;ERP系统&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;container=0;" vertex="1" parent="eid3rvfrqFlP9d8Vcgmx-73">
+          <mxGeometry x="25" y="580.4081632653061" width="190" height="209.59183673469389" as="geometry" />
         </mxCell>
-        <mxCell id="eid3rvfrqFlP9d8Vcgmx-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eid3rvfrqFlP9d8Vcgmx-1" target="eid3rvfrqFlP9d8Vcgmx-27">
+        <mxCell id="eid3rvfrqFlP9d8Vcgmx-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="eid3rvfrqFlP9d8Vcgmx-73" source="eid3rvfrqFlP9d8Vcgmx-1" target="eid3rvfrqFlP9d8Vcgmx-27">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="200" y="570" />
-              <mxPoint x="200" y="570" />
+              <mxPoint x="100" y="419.18367346938777" />
+              <mxPoint x="100" y="419.18367346938777" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="eid3rvfrqFlP9d8Vcgmx-32" value="&lt;span style=&quot;font-family: 默认字体;&quot;&gt;通过pdf拿取&lt;/span&gt;&lt;br style=&quot;margin: 0px; padding: 0px; font-family: 默认字体;&quot;&gt;&lt;span style=&quot;font-family: 默认字体;&quot;&gt;stp、dxf、pdf&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="620" width="90" height="30" as="geometry" />
+        <mxCell id="eid3rvfrqFlP9d8Vcgmx-32" value="&lt;span style=&quot;font-family: 默认字体;&quot;&gt;通过pdf拿取&lt;/span&gt;&lt;br style=&quot;margin: 0px; padding: 0px; font-family: 默认字体;&quot;&gt;&lt;span style=&quot;font-family: 默认字体;&quot;&gt;stp、dxf、pdf&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="eid3rvfrqFlP9d8Vcgmx-73">
+          <mxGeometry y="499.7959183673469" width="90" height="48.36734693877551" as="geometry" />
         </mxCell>
-        <mxCell id="eid3rvfrqFlP9d8Vcgmx-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eid3rvfrqFlP9d8Vcgmx-33" target="eid3rvfrqFlP9d8Vcgmx-36">
+        <mxCell id="eid3rvfrqFlP9d8Vcgmx-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="eid3rvfrqFlP9d8Vcgmx-73" source="eid3rvfrqFlP9d8Vcgmx-33" target="eid3rvfrqFlP9d8Vcgmx-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eid3rvfrqFlP9d8Vcgmx-33" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;计划部使用&lt;/span&gt;&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;自动排版工具（&lt;font color=&quot;#009900&quot;&gt;蔡佳良、肖运高&lt;/font&gt;）得到&lt;b&gt;&lt;font color=&quot;#0000ff&quot;&gt;拼版prt，&lt;br&gt;&lt;/font&gt;&lt;/b&gt;放到Z盘&lt;br&gt;每个体上有一码通属性&lt;br&gt;未来版本：部件上有拼版ID&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="670" width="200" height="120" as="geometry" />
+        <mxCell id="eid3rvfrqFlP9d8Vcgmx-33" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;计划部使用&lt;/span&gt;&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;自动排版工具（&lt;font color=&quot;#009900&quot;&gt;蔡佳良、肖运高&lt;/font&gt;）得到&lt;b&gt;&lt;font color=&quot;#0000ff&quot;&gt;拼版prt，&lt;br&gt;&lt;/font&gt;&lt;/b&gt;放到Z盘&lt;br&gt;每个体上有一码通属性&lt;br&gt;未来版本：部件上有拼版ID&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="eid3rvfrqFlP9d8Vcgmx-73">
+          <mxGeometry x="340" y="580.4081632653061" width="200" height="193.46938775510205" as="geometry" />
         </mxCell>
-        <mxCell id="eid3rvfrqFlP9d8Vcgmx-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="eid3rvfrqFlP9d8Vcgmx-36" target="eid3rvfrqFlP9d8Vcgmx-19">
+        <mxCell id="eid3rvfrqFlP9d8Vcgmx-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="eid3rvfrqFlP9d8Vcgmx-73" source="eid3rvfrqFlP9d8Vcgmx-36" target="eid3rvfrqFlP9d8Vcgmx-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eid3rvfrqFlP9d8Vcgmx-36" value="&lt;span style=&quot;font-family: 默认字体;&quot;&gt;跑图人员&lt;/span&gt;&lt;font face=&quot;默认字体&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;手动拉取拼好了的prt&lt;br&gt;并通过扫码枪获取&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;相关联的pdf&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="670" width="200" height="120" as="geometry" />
+        <mxCell id="eid3rvfrqFlP9d8Vcgmx-36" value="&lt;span style=&quot;font-family: 默认字体;&quot;&gt;跑图人员&lt;/span&gt;&lt;font face=&quot;默认字体&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;手动拉取拼好了的prt&lt;br&gt;并通过扫码枪获取&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;相关联的pdf&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="eid3rvfrqFlP9d8Vcgmx-73">
+          <mxGeometry x="700" y="580.4081632653061" width="200" height="193.46938775510205" as="geometry" />
         </mxCell>
-        <mxCell id="eid3rvfrqFlP9d8Vcgmx-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eid3rvfrqFlP9d8Vcgmx-39" target="eid3rvfrqFlP9d8Vcgmx-19">
+        <mxCell id="eid3rvfrqFlP9d8Vcgmx-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="eid3rvfrqFlP9d8Vcgmx-73" source="eid3rvfrqFlP9d8Vcgmx-39" target="eid3rvfrqFlP9d8Vcgmx-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eid3rvfrqFlP9d8Vcgmx-39" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;跑图人员打印&lt;/span&gt;&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;cf.pdf得到纸质版pdf，之后&lt;/span&gt;&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;通过扫码枪手动扫描纸质pdf上的二维码、得到一码通，找到dxf/stp/pdf/cf.pdf并输出到本地（&lt;/span&gt;&lt;font style=&quot;font-family: 默认字体; font-size: 14px;&quot; color=&quot;#009900&quot;&gt;拆分工具&lt;/font&gt;&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;）&lt;/span&gt;&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="2260" y="400" width="200" height="120" as="geometry" />
+        <mxCell id="eid3rvfrqFlP9d8Vcgmx-39" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;跑图人员打印&lt;/span&gt;&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;cf.pdf得到纸质版pdf，之后&lt;/span&gt;&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;通过扫码枪手动扫描纸质pdf上的二维码、得到一码通，找到dxf/stp/pdf/cf.pdf并输出到本地（&lt;/span&gt;&lt;font style=&quot;font-family: 默认字体; font-size: 14px;&quot; color=&quot;#009900&quot;&gt;拆分工具&lt;/font&gt;&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;）&lt;/span&gt;&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="eid3rvfrqFlP9d8Vcgmx-73">
+          <mxGeometry x="2160" y="145.10204081632654" width="200" height="193.46938775510205" as="geometry" />
         </mxCell>
-        <mxCell id="eid3rvfrqFlP9d8Vcgmx-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="eid3rvfrqFlP9d8Vcgmx-45" target="eid3rvfrqFlP9d8Vcgmx-13">
+        <mxCell id="eid3rvfrqFlP9d8Vcgmx-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="eid3rvfrqFlP9d8Vcgmx-73" source="eid3rvfrqFlP9d8Vcgmx-45" target="eid3rvfrqFlP9d8Vcgmx-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1760" y="570" />
-              <mxPoint x="1588" y="570" />
+              <mxPoint x="1660" y="419.18367346938777" />
+              <mxPoint x="1488" y="419.18367346938777" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="eid3rvfrqFlP9d8Vcgmx-45" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;pdf路径&lt;/span&gt;&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;（自动上色会用到&lt;/span&gt;&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1710" y="400" width="200" height="120" as="geometry" />
+        <mxCell id="eid3rvfrqFlP9d8Vcgmx-45" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;pdf路径&lt;/span&gt;&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;（自动上色会用到&lt;/span&gt;&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="eid3rvfrqFlP9d8Vcgmx-73">
+          <mxGeometry x="1610" y="145.10204081632654" width="200" height="193.46938775510205" as="geometry" />
         </mxCell>
-        <mxCell id="eid3rvfrqFlP9d8Vcgmx-52" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;color: rgb(0, 153, 0); font-family: 默认字体;&quot;&gt;拆分工具&lt;/span&gt;&lt;font face=&quot;默认字体&quot;&gt;输出&lt;/font&gt;&lt;span style=&quot;font-family: 默认字体;&quot;&gt;cf.pdf&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1710" y="625" width="160" height="25" as="geometry" />
+        <mxCell id="eid3rvfrqFlP9d8Vcgmx-52" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;color: rgb(0, 153, 0); font-family: 默认字体;&quot;&gt;拆分工具&lt;/span&gt;&lt;font face=&quot;默认字体&quot;&gt;输出&lt;/font&gt;&lt;span style=&quot;font-family: 默认字体;&quot;&gt;cf.pdf&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="eid3rvfrqFlP9d8Vcgmx-73">
+          <mxGeometry x="1610" y="507.8571428571429" width="160" height="40.30612244897959" as="geometry" />
         </mxCell>
-        <mxCell id="eid3rvfrqFlP9d8Vcgmx-54" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;CNC图纸放到0002&lt;/span&gt;&lt;div&gt;&lt;font face=&quot;默认字体&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;上下料图纸放到0003&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="3300" y="400" width="200" height="120" as="geometry" />
+        <mxCell id="eid3rvfrqFlP9d8Vcgmx-54" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;CNC图纸放到0002&lt;/span&gt;&lt;div&gt;&lt;font face=&quot;默认字体&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;上下料图纸放到0003&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="eid3rvfrqFlP9d8Vcgmx-73">
+          <mxGeometry x="3200" y="145.10204081632654" width="200" height="193.46938775510205" as="geometry" />
         </mxCell>
-        <mxCell id="eid3rvfrqFlP9d8Vcgmx-60" value="&lt;span style=&quot;font-family: 默认字体;&quot;&gt;计划告知跑图人员拼版prt路径&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="660" y="670" width="110" height="55" as="geometry" />
+        <mxCell id="eid3rvfrqFlP9d8Vcgmx-60" value="&lt;span style=&quot;font-family: 默认字体;&quot;&gt;计划告知跑图人员拼版prt路径&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="eid3rvfrqFlP9d8Vcgmx-73">
+          <mxGeometry x="560" y="580.4081632653061" width="110" height="88.6734693877551" as="geometry" />
         </mxCell>
-        <mxCell id="eid3rvfrqFlP9d8Vcgmx-61" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: 默认字体; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;获取与一码通相关联的pdf（多个）&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="670" width="250" height="40" as="geometry" />
+        <mxCell id="eid3rvfrqFlP9d8Vcgmx-61" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: 默认字体; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;获取与一码通相关联的pdf（多个）&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="eid3rvfrqFlP9d8Vcgmx-73">
+          <mxGeometry x="1040" y="580.4081632653061" width="250" height="64.48979591836735" as="geometry" />
         </mxCell>
-        <mxCell id="eid3rvfrqFlP9d8Vcgmx-65" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;依据一码通从ERP系统上拉取dxf/stp/pdf文件&lt;/span&gt;&lt;font face=&quot;默认字体&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;(&lt;/span&gt;&lt;/font&gt;&lt;font style=&quot;font-family: 默认字体; font-size: 14px;&quot; color=&quot;#009900&quot;&gt;艾湘磊&lt;/font&gt;&lt;font face=&quot;默认字体&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;)&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1300" y="380" width="110" height="75" as="geometry" />
+        <mxCell id="eid3rvfrqFlP9d8Vcgmx-65" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;依据一码通从ERP系统上拉取dxf/stp/pdf文件&lt;/span&gt;&lt;font face=&quot;默认字体&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;(&lt;/span&gt;&lt;/font&gt;&lt;font style=&quot;font-family: 默认字体; font-size: 14px;&quot; color=&quot;#009900&quot;&gt;艾湘磊&lt;/font&gt;&lt;font face=&quot;默认字体&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;)&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="eid3rvfrqFlP9d8Vcgmx-73">
+          <mxGeometry x="1200" y="112.85714285714286" width="110" height="120.91836734693878" as="geometry" />
         </mxCell>
-        <mxCell id="eid3rvfrqFlP9d8Vcgmx-71" value="&lt;font style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot; face=&quot;默认字体&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; font-size: 14px;&quot;&gt;监控&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-family: 默认字体; font-size: 14px;&quot;&gt;ymt-watch-output文件夹，生成&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1540" y="350" width="250" height="30" as="geometry" />
+        <mxCell id="eid3rvfrqFlP9d8Vcgmx-71" value="&lt;font style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot; face=&quot;默认字体&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; font-size: 14px;&quot;&gt;监控&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-family: 默认字体; font-size: 14px;&quot;&gt;ymt-watch-output文件夹，生成&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="eid3rvfrqFlP9d8Vcgmx-73">
+          <mxGeometry x="1440" y="64.48979591836735" width="250" height="48.36734693877551" as="geometry" />
         </mxCell>
-        <mxCell id="eid3rvfrqFlP9d8Vcgmx-72" value="&lt;font face=&quot;默认字体&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;给到pdf中&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1630" y="540" width="90" height="30" as="geometry" />
+        <mxCell id="eid3rvfrqFlP9d8Vcgmx-72" value="&lt;font face=&quot;默认字体&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;给到pdf中&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="eid3rvfrqFlP9d8Vcgmx-73">
+          <mxGeometry x="1530" y="370.81632653061223" width="90" height="48.36734693877551" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
