@@ -216,8 +216,8 @@
         <mxCell id="GdVO2XYTJ_7_y9tv-23y-27" value="自动装订&lt;br&gt;将自动编程的产物、工艺流程卡打印并装订在一起" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="3835" y="605" width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="XGMDAC_3czDQmLbfTKJu-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="50" y="-50" width="180" height="120" as="geometry" />
+        <mxCell id="XGMDAC_3czDQmLbfTKJu-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;自动上色--自动编程&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="-50" width="470" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
