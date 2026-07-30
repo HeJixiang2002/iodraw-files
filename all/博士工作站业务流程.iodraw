@@ -273,6 +273,12 @@
         <mxCell id="XGMDAC_3czDQmLbfTKJu-38" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;计划工作台&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="680" y="1160" width="160" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="XGMDAC_3czDQmLbfTKJu-39" value="" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;align=left;strokeWidth=2;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="408.75" y="1808.75" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XGMDAC_3czDQmLbfTKJu-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XGMDAC_3czDQmLbfTKJu-18" target="XGMDAC_3czDQmLbfTKJu-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
