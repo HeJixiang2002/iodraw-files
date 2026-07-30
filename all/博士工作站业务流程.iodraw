@@ -75,8 +75,8 @@
         <mxCell id="eid3rvfrqFlP9d8Vcgmx-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eid3rvfrqFlP9d8Vcgmx-27" target="eid3rvfrqFlP9d8Vcgmx-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="250" y="570" />
-              <mxPoint x="250" y="570" />
+              <mxPoint x="240" y="550" />
+              <mxPoint x="240" y="550" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -86,10 +86,13 @@
         <mxCell id="eid3rvfrqFlP9d8Vcgmx-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eid3rvfrqFlP9d8Vcgmx-1" target="eid3rvfrqFlP9d8Vcgmx-27">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="180" y="570" />
-              <mxPoint x="180" y="570" />
+              <mxPoint x="200" y="570" />
+              <mxPoint x="200" y="570" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="eid3rvfrqFlP9d8Vcgmx-32" value="打印纸质版PDF" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="440" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
