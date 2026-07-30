@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="Rjgo_2mnX5ES0sHC39dA">
-    <mxGraphModel dx="1795" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1357" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -256,7 +256,7 @@
           <mxGeometry x="210" y="1470" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XGMDAC_3czDQmLbfTKJu-16" value="&lt;span style=&quot;font-family: 默认字体;&quot;&gt;分发给自动编程图纸，并通过侨安打印机&lt;font color=&quot;#ff33ff&quot;&gt;扫描&lt;/font&gt;得到含有信息的电子版PDF&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="670" y="410" width="110" height="55" as="geometry" />
+          <mxGeometry x="-120" y="1390" width="110" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
