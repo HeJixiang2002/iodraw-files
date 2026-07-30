@@ -222,8 +222,8 @@
         <mxCell id="XGMDAC_3czDQmLbfTKJu-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;计划工作台流程&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="930" width="260" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="XGMDAC_3czDQmLbfTKJu-6" value="待计划" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="1030" width="120" height="70" as="geometry" />
+        <mxCell id="XGMDAC_3czDQmLbfTKJu-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;待计划&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="125" y="1030" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
