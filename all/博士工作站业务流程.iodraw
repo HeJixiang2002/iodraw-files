@@ -128,7 +128,7 @@
         <mxCell id="eid3rvfrqFlP9d8Vcgmx-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="eid3rvfrqFlP9d8Vcgmx-36" target="eid3rvfrqFlP9d8Vcgmx-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eid3rvfrqFlP9d8Vcgmx-36" value="&lt;span style=&quot;font-family: 默认字体;&quot;&gt;跑图人员&lt;/span&gt;&lt;font face=&quot;默认字体&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;手动拉取拼好了的prt&lt;br&gt;与&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eid3rvfrqFlP9d8Vcgmx-36" value="&lt;span style=&quot;font-family: 默认字体;&quot;&gt;跑图人员&lt;/span&gt;&lt;font face=&quot;默认字体&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;手动拉取拼好了的prt&lt;br&gt;与&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;相关联的pdf&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="600" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="eid3rvfrqFlP9d8Vcgmx-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eid3rvfrqFlP9d8Vcgmx-39" target="eid3rvfrqFlP9d8Vcgmx-19">
