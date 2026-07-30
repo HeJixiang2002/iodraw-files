@@ -56,6 +56,9 @@
         <mxCell id="eid3rvfrqFlP9d8Vcgmx-11" value="&lt;span style=&quot;font-family: 默认字体;&quot;&gt;生成含有一码通的excel到\\192.168.5.9\cnc\0000JM\&lt;br&gt;fgexcel\ymt-watch-input&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="1080" y="400" width="200" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="eid3rvfrqFlP9d8Vcgmx-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eid3rvfrqFlP9d8Vcgmx-13" target="eid3rvfrqFlP9d8Vcgmx-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="eid3rvfrqFlP9d8Vcgmx-13" value="&lt;font face=&quot;默认字体&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;\\192.168.5.9\cnc\0000JM\&lt;br&gt;fgexcel\ymt-watch-output路径下有&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;dxf/stp/pdf(带路径)/&lt;/span&gt;&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;cf.pdf&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="1430" y="400" width="210" height="120" as="geometry" />
         </mxCell>
@@ -134,11 +137,11 @@
         <mxCell id="eid3rvfrqFlP9d8Vcgmx-39" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;跑图人员打印&lt;/span&gt;&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;cf.pdf得到纸质版pdf，之后&lt;/span&gt;&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;通过扫码枪手动扫描纸质pdf上的二维码、得到一码通，找到dxf/stp/pdf/cf.pdf并输出到本地（&lt;/span&gt;&lt;font style=&quot;font-family: 默认字体; font-size: 14px;&quot; color=&quot;#009900&quot;&gt;拆分工具&lt;/font&gt;&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;）&lt;/span&gt;&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="2200" y="400" width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="eid3rvfrqFlP9d8Vcgmx-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="eid3rvfrqFlP9d8Vcgmx-45" target="eid3rvfrqFlP9d8Vcgmx-13">
+        <mxCell id="eid3rvfrqFlP9d8Vcgmx-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="eid3rvfrqFlP9d8Vcgmx-45" target="eid3rvfrqFlP9d8Vcgmx-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1740" y="550" />
-              <mxPoint x="1510" y="550" />
+              <mxPoint x="1760" y="560" />
+              <mxPoint x="1588" y="560" />
             </Array>
           </mxGeometry>
         </mxCell>
