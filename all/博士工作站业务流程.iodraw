@@ -4,8 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="eid3rvfrqFlP9d8Vcgmx-1" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="eid3rvfrqFlP9d8Vcgmx-1" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;PLM系统&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="140" y="400" width="150" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="eid3rvfrqFlP9d8Vcgmx-2" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
+          <mxGeometry x="160" y="370" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
