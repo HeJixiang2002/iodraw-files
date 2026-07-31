@@ -124,8 +124,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="DYFQTw_HoFy7mLBH5NBQ-29" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;通过pdf拿取&lt;/span&gt;&lt;br style=&quot;margin: 0px; padding: 0px; font-family: 默认字体; font-size: 14px;&quot;&gt;&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;stp、dxf、pdf&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="100" y="600" width="90" height="50" as="geometry" />
+        <mxCell id="DYFQTw_HoFy7mLBH5NBQ-29" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;通过一码通拿取&lt;/span&gt;&lt;br style=&quot;margin: 0px; padding: 0px; font-family: 默认字体; font-size: 14px;&quot;&gt;&lt;span style=&quot;font-family: 默认字体; font-size: 14px;&quot;&gt;stp、dxf、pdf&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="90" y="600" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DYFQTw_HoFy7mLBH5NBQ-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" parent="1" source="DYFQTw_HoFy7mLBH5NBQ-31" target="DYFQTw_HoFy7mLBH5NBQ-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
